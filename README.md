@@ -9,9 +9,7 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-Ant-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 [Página web](https://timetrekodyssey.netlify.app) ·
-[Investigación (PDF)](ENLACE_ONEDRIVE_AQUI) ·
-[Cómo jugar](#-controles) ·
-[Equipo](#-equipo)
+[Investigación (PDF)](https://uninorte-my.sharepoint.com/:b:/g/personal/keslyr_uninorte_edu_co/IQCfni1PV1D9QpK_0MRGfyjUAfmK1oBCkdLuWhzcCOTeF1Q?e=fFW3Su) ·
 
 </div>
 
