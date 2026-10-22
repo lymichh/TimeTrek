@@ -1,0 +1,12 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Java
+*.class
+out/
+
+# macOS
+.DS_Store
+__MACOSX/
