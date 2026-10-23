@@ -25,7 +25,7 @@ El objetivo es recorrer cada era ilustrada en los 5 niveles, derrotar a sus enem
 
 1. **Completar los cinco niveles** enfrentando a los enemigos propios de cada época.
 2. **Recolectar los objetos históricos** de cada era (son necesarios para avanzar al siguiente nivel).
-3. ⚙**Recuperar la pieza de la máquina del tiempo** para que el científico pueda volver a su presente.
+3. **Recuperar la pieza de la máquina del tiempo** para que el científico pueda volver a su presente.
 
 ---
 
@@ -71,35 +71,35 @@ Cada nivel está inspirado en una era distinta de la historia, con su propio fon
 
 | Fósiles | Huellas | Huevos |
 |:---:|:---:|:---:|
-| <img src="TimeTrek/docs/img/objetos/jurasico-fosiles.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huellas.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huevos.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/jurasico-fosiles.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huellas.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huevos.gif" width="150"/> |
 
 ### Nivel 2 — Prehistoria
 **Enemigo:** Tigre dientes de sable.
 
 | Cuchillos de piedra | La rueda | Pinturas rupestres |
 |:---:|:---:|:---:|
-| <img src="TimeTrek/docs/img/objetos/prehistoria-cuchillos.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-rueda.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-pinturas.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/prehistoria-cuchillos.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-rueda.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-pinturas.gif" width="150"/> |
 
 ### Nivel 3 — Antigüedad
 **Enemigo:** Soldado — no te dejará acercarte a los dioses.
 
 | Esculturas | Monedas | Civilización (torre) |
 |:---:|:---:|:---:|
-| <img src="TimeTrek/docs/img/objetos/antiguedad-esculturas.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-moneda.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-torre.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/antiguedad-esculturas.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-moneda.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-torre.gif" width="150"/> |
 
 ### Nivel 4 — Edad Media
 **Enemigo:** El Rey — listo para defender su reino.
 
 | Universidades | Conquista (barco) | Molinos |
 |:---:|:---:|:---:|
-| <img src="TimeTrek/docs/img/objetos/edadmedia-universidades.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-barco.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-molino.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/edadmedia-universidades.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-barco.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-molino.gif" width="150"/> |
 
 ### Nivel 5 — Edad Contemporánea
 **Enemigo:** Guerrero — dispara apenas te ve.
 
 | Wi-Fi | Bomba | Penicilina |
 |:---:|:---:|:---:|
-| <img src="TimeTrek/docs/img/objetos/contemporanea-wifi.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-bomba.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-penicilina.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/contemporanea-wifi.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-bomba.gif" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-penicilina.gif" width="150"/> |
 
 ### Piezas de la máquina del tiempo
 
@@ -123,11 +123,11 @@ Cada nivel está inspirado en una era distinta de la historia, con su propio fon
 
 | Tecla | Acción |
 |:---:|---|
-| <img src="TimeTrek/res/key_a.png" height="32"/> | Moverse a la izquierda |
-| <img src="TimeTrek/res/key_d.png" height="32"/> | Moverse a la derecha |
-| <img src="TimeTrek/res/key_w.png" height="32"/> / <img src="TimeTrek/res/key_space.png" height="28"/> | Saltar |
-| <img src="TimeTrek/res/key_j.png" height="32"/> | Atacar |
-| <img src="TimeTrek/res/key_k.png" height="32"/> | Ataque de poder |
+| <img src="TimeTrek/res/key_a.png" height="40"/> | Moverse a la izquierda |
+| <img src="TimeTrek/res/key_d.png" height="40"/> | Moverse a la derecha |
+| <img src="TimeTrek/res/key_w.png" height="40"/> / <img src="TimeTrek/res/key_space.png" height="28"/> | Saltar |
+| <img src="TimeTrek/res/key_j.png" height="40"/> | Atacar |
+| <img src="TimeTrek/res/key_k.png" height="40"/> | Ataque de poder |
 | `Esc` | Pausar / reanudar |
 | `Enter` | Seleccionar en el menú |
 | Mouse | Navegar por menús y botones |
