@@ -163,7 +163,7 @@ El artículo incluye:
 | **javax.sound.sampled** | Reproducción de música y efectos de sonido (`.wav`) |
 | **javax.imageio** | Carga de sprites, *atlas* y mapas de niveles (`.png`) |
 | **Apache Ant + NetBeans** | Compilación y gestión del proyecto |
-| **HTML / CSS / JS ** | [Página web del juego](https://timetrekodyssey.netlify.app) |
+| **HTML / CSS / JS** | [Página web del juego](https://timetrekodyssey.netlify.app) |
 
 ---
 
