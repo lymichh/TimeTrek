@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="res/nombreJuego.png" alt="Time Trek: Odyssey" width="520"/>
+<img src="TimeTrek/res/nombreJuego.png" alt="Time Trek: Odyssey" width="520"/>
 
 ### Un juego de plataformas 2D para aprender historia viajando en el tiempo
 
@@ -72,10 +72,10 @@ El objetivo es recorrer cada era ilustrada en los 5 niveles, derrotar a sus enem
 <!-- Reemplaza estas imágenes por tus capturas en docs/img/capturas/ -->
 | Menú principal | Jugando | Objeto recolectado |
 |:---:|:---:|:---:|
-| <img src="docs/img/capturas/menu.png" width="260"/> | <img src="docs/img/capturas/gameplay.png" width="260"/> | <img src="docs/img/capturas/objeto.png" width="260"/> |
+| <img src="TimeTrek/docs/img/capturas/menu.png" width="260"/> | <img src="TimeTrek/docs/img/capturas/gameplay.png" width="260"/> | <img src="TimeTrek/docs/img/capturas/objeto.png" width="260"/> |
 
 <!-- Opcional: un GIF corto del juego llama mucho la atención en GitHub -->
-<!-- <p align="center"><img src="docs/img/capturas/demo.gif" width="600"/></p> -->
+<!-- <p align="center"><img src="TimeTrek/docs/img/capturas/demo.gif" width="600"/></p> -->
 
 ---
 
@@ -83,46 +83,45 @@ El objetivo es recorrer cada era ilustrada en los 5 niveles, derrotar a sus enem
 
 Cada nivel está inspirado en una era distinta de la historia, con su propio fondo, enemigo, música y objetos históricos que el jugador debe recolectar.
 
-> 📁 **Para poner tus imágenes:** guarda cada foto en `docs/img/objetos/` con el nombre que aparece en la tabla (o cambia la ruta en el `src`). Puedes ajustar el tamaño con el atributo `width`.
 
 ### Nivel 1 — Período Jurásico
 **Enemigo:** Dinosaurio — listo para atacar si te cruzas en su camino.
 
 | Fósiles | Huellas | Huevos |
 |:---:|:---:|:---:|
-| <img src="docs/img/objetos/jurasico-fosiles.png" width="150"/> | <img src="docs/img/objetos/jurasico-huellas.png" width="150"/> | <img src="docs/img/objetos/jurasico-huevos.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/jurasico-fosiles.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huellas.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/jurasico-huevos.png" width="150"/> |
 
 ### Nivel 2 — Prehistoria
 **Enemigo:** Tigre dientes de sable.
 
 | Cuchillos de piedra | La rueda | Pinturas rupestres |
 |:---:|:---:|:---:|
-| <img src="docs/img/objetos/prehistoria-cuchillos.png" width="150"/> | <img src="docs/img/objetos/prehistoria-rueda.png" width="150"/> | <img src="docs/img/objetos/prehistoria-pinturas.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/prehistoria-cuchillos.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-rueda.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/prehistoria-pinturas.png" width="150"/> |
 
 ### Nivel 3 — Antigüedad
 **Enemigo:** Soldado — no te dejará acercarte a los dioses.
 
 | Esculturas | Monedas | Civilización (torre) |
 |:---:|:---:|:---:|
-| <img src="docs/img/objetos/antiguedad-esculturas.png" width="150"/> | <img src="docs/img/objetos/antiguedad-moneda.png" width="150"/> | <img src="docs/img/objetos/antiguedad-torre.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/antiguedad-esculturas.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-moneda.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/antiguedad-torre.png" width="150"/> |
 
 ### Nivel 4 — Edad Media
 **Enemigo:** El Rey — listo para defender su reino.
 
 | Universidades | Conquista (barco) | Molinos |
 |:---:|:---:|:---:|
-| <img src="docs/img/objetos/edadmedia-universidades.png" width="150"/> | <img src="docs/img/objetos/edadmedia-barco.png" width="150"/> | <img src="docs/img/objetos/edadmedia-molino.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/edadmedia-universidades.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-barco.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/edadmedia-molino.png" width="150"/> |
 
 ### Nivel 5 — Edad Contemporánea
 **Enemigo:** Guerrero — dispara apenas te ve.
 
 | Wi-Fi | Bomba | Penicilina |
 |:---:|:---:|:---:|
-| <img src="docs/img/objetos/contemporanea-wifi.png" width="150"/> | <img src="docs/img/objetos/contemporanea-bomba.png" width="150"/> | <img src="docs/img/objetos/contemporanea-penicilina.png" width="150"/> |
+| <img src="TimeTrek/docs/img/objetos/contemporanea-wifi.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-bomba.png" width="150"/> | <img src="TimeTrek/docs/img/objetos/contemporanea-penicilina.png" width="150"/> |
 
 ### Piezas de la máquina del tiempo
 
-<p align="center"><img src="res/piezas_maquina.png" width="260"/></p>
+<p align="center"><img src="TimeTrek/res/piezas_maquina.png" width="260"/></p>
 
 ---
 
@@ -142,11 +141,11 @@ Cada nivel está inspirado en una era distinta de la historia, con su propio fon
 
 | Tecla | Acción |
 |:---:|---|
-| <img src="res/key_a.png" height="28"/> | Moverse a la izquierda |
-| <img src="res/key_d.png" height="28"/> | Moverse a la derecha |
-| <img src="res/key_w.png" height="28"/> / <img src="res/key_space.png" height="28"/> | Saltar |
-| <img src="res/key_j.png" height="28"/> | Atacar |
-| <img src="res/key_k.png" height="28"/> | Ataque de poder |
+| <img src="TimeTrek/res/key_a.png" height="28"/> | Moverse a la izquierda |
+| <img src="TimeTrek/res/key_d.png" height="28"/> | Moverse a la derecha |
+| <img src="TimeTrek/res/key_w.png" height="28"/> / <img src="TimeTrek/res/key_space.png" height="28"/> | Saltar |
+| <img src="TimeTrek/res/key_j.png" height="28"/> | Atacar |
+| <img src="TimeTrek/res/key_k.png" height="28"/> | Ataque de poder |
 | `Esc` | Pausar / reanudar |
 | `Enter` | Seleccionar en el menú |
 | Mouse | Navegar por menús y botones |
@@ -258,13 +257,4 @@ java -cp out main.MainClass
 | **Laura González** | Directora de UI/UX |
 | **Santiago Vengoechea** | Director de Pruebas y Sonido |
 | **Diana García** | Directora de Diseño |
-
----
-
-## Créditos y agradecimientos
-
-- Proyecto desarrollado para la asignatura **Estructuras de Datos 1** — *NOMBRE DE LA UNIVERSIDAD*, 2024.
-- Profesor(a): *NOMBRE*.
-- Sprites, música y efectos: *indica aquí las fuentes o licencias de los recursos de terceros, si los hay*.
-
 
