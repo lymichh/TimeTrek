@@ -51,7 +51,6 @@ El objetivo es recorrer cada era ilustrada en los 5 niveles, derrotar a sus enem
 
 ## Capturas
 
-<!-- Reemplaza estas imágenes por tus capturas en docs/img/capturas/ -->
 | Menú principal | Jugando | Objeto recolectado |
 |:---:|:---:|:---:|
 | <img src="TimeTrek/docs/img/capturas/menu.png" width="260"/> | <img src="TimeTrek/docs/img/capturas/gameplay.png" width="260"/> | <img src="TimeTrek/docs/img/capturas/objeto.png" width="260"/> |
