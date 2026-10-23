@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="TimeTrek/res/nombreJuego.png" alt="Time Trek: Odyssey" width="520"/>
+<img src="TimeTrek/res/nombreJuego1.png" alt="Time Trek: Odyssey" width="520"/>
 
 ### Un juego de plataformas 2D para aprender historia viajando en el tiempo
 
@@ -9,27 +9,9 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-Ant-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 [Página web](https://timetrekodyssey.netlify.app) ·
-[Investigación (PDF)](https://uninorte-my.sharepoint.com/:b:/g/personal/keslyr_uninorte_edu_co/IQCfni1PV1D9QpK_0MRGfyjUAfmK1oBCkdLuWhzcCOTeF1Q?e=fFW3Su) ·
+[Investigación (PDF)](https://uninorte-my.sharepoint.com/:b:/g/personal/keslyr_uninorte_edu_co/IQCfni1PV1D9QpK_0MRGfyjUAfmK1oBCkdLuWhzcCOTeF1Q?e=fFW3Su)
 
 </div>
-
----
-
-## Tabla de contenido
-
-- [Descripción](#️-descripción)
-- [La historia](#-la-historia-the-fragments-of-time)
-- [Capturas](#-capturas)
-- [Niveles y objetos especiales](#️-niveles-y-objetos-especiales)
-- [Mecánicas de juego](#-mecánicas-de-juego)
-- [Controles](#-controles)
-- [Investigación detrás del juego](#-investigación-detrás-del-juego)
-- [Tecnologías](#️-tecnologías)
-- [Estructuras de datos utilizadas](#-estructuras-de-datos-utilizadas)
-- [Arquitectura del proyecto](#️-arquitectura-del-proyecto)
-- [Instalación y ejecución](#-instalación-y-ejecución)
-- [Equipo](#-equipo)
-- [Créditos](#-créditos-y-agradecimientos)
 
 ---
 
@@ -141,11 +123,11 @@ Cada nivel está inspirado en una era distinta de la historia, con su propio fon
 
 | Tecla | Acción |
 |:---:|---|
-| <img src="TimeTrek/res/key_a.png" height="28"/> | Moverse a la izquierda |
-| <img src="TimeTrek/res/key_d.png" height="28"/> | Moverse a la derecha |
-| <img src="TimeTrek/res/key_w.png" height="28"/> / <img src="TimeTrek/res/key_space.png" height="28"/> | Saltar |
-| <img src="TimeTrek/res/key_j.png" height="28"/> | Atacar |
-| <img src="TimeTrek/res/key_k.png" height="28"/> | Ataque de poder |
+| <img src="TimeTrek/res/key_a.png" height="32"/> | Moverse a la izquierda |
+| <img src="TimeTrek/res/key_d.png" height="32"/> | Moverse a la derecha |
+| <img src="TimeTrek/res/key_w.png" height="32"/> / <img src="TimeTrek/res/key_space.png" height="28"/> | Saltar |
+| <img src="TimeTrek/res/key_j.png" height="32"/> | Atacar |
+| <img src="TimeTrek/res/key_k.png" height="32"/> | Ataque de poder |
 | `Esc` | Pausar / reanudar |
 | `Enter` | Seleccionar en el menú |
 | Mouse | Navegar por menús y botones |
